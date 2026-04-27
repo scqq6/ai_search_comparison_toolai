@@ -1,0 +1,6 @@
+python-dotenv==1.2.1
+openai==2.9.0
+pydantic==2.12.5
+perplexityai==0.22.0
+google-genai==1.56.0
+microsoft-agents-m365copilot==1.3.0
